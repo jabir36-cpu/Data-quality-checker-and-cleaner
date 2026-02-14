@@ -1,5 +1,4 @@
 # Data-quality-checker-and-cleaner
-#  Data Quality Checker & Cleaner
 
 A web app to check and clean your data instantly — no coding needed!
 
